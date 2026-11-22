@@ -1,5 +1,7 @@
-# GM-Guardian-Showcase
-Custom Python Telegram Bot with a Windows Control Center, community moderation, automated welcomes, social media management and donation links. Portfolio project by GPTishka &amp; Mishki. Custom bot development available.
+<p align="center">
+  <img src="assets/banner.svg" width="850" alt="GM Guardian">
+</p>
+
 # 🛡️ GM Guardian — Control Center 2.3
 
 ### GPTishka & Mishki | GM Development
@@ -21,12 +23,14 @@ GM Guardian is a custom Telegram bot with a graphical Windows Control Center, de
 - Start, stop and restart the bot using a graphical interface.
 - Automatic welcome messages for new members.
 - Configurable community rules.
-- Soft moderation and spam detection.
+- Soft moderation and potential spam detection.
 - Administrator notifications.
 - Social media link management.
 - Donation link management.
 - Activity and moderation logs.
 - Home server deployment.
+
+---
 
 ## 🇺🇦 Про проєкт
 
@@ -45,35 +49,59 @@ GM Guardian — Telegram-бот із власною графічною пане�
 - Журнал роботи та подій модерації.
 - Робота на домашньому сервері.
 
+---
+
 ## 🇵🇱 O projekcie
 
 GM Guardian to bot Telegram z własnym graficznym panelem sterowania dla systemu Windows, przeznaczony do zarządzania społecznością, moderacji i automatyzacji.
 
 ### Główne funkcje
 
-- Uruchamianie i zatrzymywanie bota.
+- Uruchamianie, zatrzymywanie i restartowanie bota.
 - Automatyczne powitania.
 - Konfiguracja regulaminu społeczności.
 - Wykrywanie potencjalnego spamu.
 - Powiadomienia administratora.
 - Zarządzanie linkami do mediów społecznościowych.
 - Konfiguracja linków do wsparcia finansowego.
-- Dziennik aktywności.
+- Dziennik aktywności i moderacji.
 - Praca na serwerze domowym.
 
 ---
 
-## 🖥️ Interface
+## 🖥️ Interface & Screenshots
 
-GM Guardian Control Center 2.3:
+GM Guardian Control Center 2.3 — Windows graphical interface.
 
-- Control Center
-- Social Media
-- Donations
-- Community
-- Moderation
+### 01. Control Center | Керування
 
-Screenshots will be added to the project gallery.
+Start, stop and restart the Telegram bot.
+
+![Control Center](assets/01-control-center.png)
+
+### 02. Social Media | Соцмережі
+
+Manage social media links without editing the source code.
+
+![Social Media](assets/02-social-media.png)
+
+### 03. Donations | Донати
+
+Configure financial support links.
+
+![Donations](assets/03-donations.png)
+
+### 04. Community | Спільнота
+
+Customize welcome messages, community rules and bot information.
+
+![Community](assets/04-community.png)
+
+### 05. Moderation | Модерація
+
+Configure soft moderation, spam detection and administrator notifications.
+
+![Moderation](assets/05-moderation.png)
 
 ---
 
@@ -81,12 +109,13 @@ Screenshots will be added to the project gallery.
 
 | Technology | Purpose |
 |---|---|
-| Python | Application development |
+| Python 3.14 | Application development |
 | Telegram Bot API | Telegram integration |
 | python-telegram-bot | Bot framework |
 | Tkinter | Graphical user interface |
 | JSON | Configuration management |
 | Windows | Operating environment |
+| GitHub | Project portfolio |
 
 ---
 
@@ -99,6 +128,7 @@ Screenshots will be added to the project gallery.
 - [x] Welcome messages
 - [x] Soft moderation
 - [x] Home server deployment
+- [x] Technical documentation
 - [ ] Automatic startup
 - [ ] Automatic crash recovery
 
@@ -106,13 +136,29 @@ Screenshots will be added to the project gallery.
 
 ## 💼 Custom development
 
-🇬🇧 Custom Telegram bot development is available upon request.
+### 🇬🇧 English
 
-🇺🇦 Приймаю індивідуальні замовлення на розробку Telegram-ботів, графічних панелей керування та інструментів автоматизації.
+Custom Telegram bot development is available upon request.
 
-🇵🇱 Tworzę indywidualne boty Telegram, graficzne panele sterowania i narzędzia automatyzacji na zamówienie.
+Individual functionality, graphical control panels, community management tools and automation solutions.
 
-GM Guardian itself is a portfolio project and is not for sale.
+### 🇺🇦 Українська
+
+Приймаю індивідуальні замовлення на розробку Telegram-ботів, графічних панелей керування та інструментів автоматизації.
+
+Функціонал, дизайн і налаштування узгоджуються відповідно до потреб замовника.
+
+### 🇵🇱 Polski
+
+Tworzę indywidualne boty Telegram, graficzne panele sterowania i narzędzia automatyzacji na zamówienie.
+
+Funkcjonalność, wygląd i konfiguracja są dostosowywane do potrzeb klienta.
+
+> GM Guardian itself is a portfolio project and is not for sale.
+>
+> GM Guardian є демонстраційним проєктом і не продається.
+>
+> GM Guardian jest projektem demonstracyjnym i nie jest na sprzedaż.
 
 ---
 
@@ -127,18 +173,28 @@ GM Guardian itself is a portfolio project and is not for sale.
 
 ## 🔒 Copyright & License
 
-Copyright © 2026 GPTishka & Mishki — GM Development.
+Copyright © 2026 Boy Mike B&M | GPTishka & Mishki — GM Development.
 
 All rights reserved.
 
 This repository is intended for portfolio and demonstration purposes only.
 
-GM Guardian is a proprietary project. The application source code is not publicly distributed. Unauthorized use, modification or commercial distribution of original protected materials is prohibited, except as permitted by applicable law or platform terms.
+GM Guardian is a proprietary project. The application source code is not publicly distributed.
+
+Unauthorized use, modification or commercial distribution of original protected materials is prohibited, except as permitted by applicable law or platform terms.
 
 Third-party libraries remain subject to their respective licenses.
 
 ---
 
-### 🐻 GM Development
+<p align="center">
+  <strong>🐻 GM Development</strong>
+</p>
 
-**Gaming • Software • Technology • Automation**
+<p align="center">
+  Gaming • Software • Technology • Automation
+</p>
+
+<p align="center">
+  <strong>Boy Mike B&M.</strong>
+</p>
